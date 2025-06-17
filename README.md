@@ -7,6 +7,10 @@
 
 <br/>
 <p align="center">
+  <a href="https://chresnakharisma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-339933?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"/>
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/chresna-kharisma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
