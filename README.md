@@ -21,8 +21,6 @@
 
 - 🔭 I build scalable backend systems (microservices, APIs, event-driven services)
 - 🌱 Currently learning: Kubernetes, Cloud Architecture, and DevOps practices
-- 🧩 Interested in: reliability, performance, distributed systems, and clean architecture
-- 🤝 Open to: collaboration on backend / cloud tooling projects
 
 ---
 
