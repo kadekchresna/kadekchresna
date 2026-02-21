@@ -52,23 +52,4 @@
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
----
-
-## 📌 Featured Projects
-> Replace these with your best 2–4 repositories (pin them on GitHub too).
-
-- 🚀 **Project Name** — one sentence: what it does + key tech used  
-- ⚙️ **Project Name** — one sentence: problem solved + scale/perf/reliability angle  
-- 🔐 **Project Name** — one sentence: cloud/devops/security angle
-
----
-
-## 📈 GitHub Stats
-
-| Stats | Streak |
-|---|---|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kadekchresna&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com?user=kadekchresna&theme=radical) |
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadekchresna&layout=compact&theme=radical)
-
 
